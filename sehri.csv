@@ -1,0 +1,66 @@
+,,,Sehri,,,,
+Hosle,item1,item2,item3,item4,item5,item6,Item7
+yes,lassi ,pratha,bread,tea,yougart,null,null
+no,pratha,lassi,yougart,tea ,egg,null,null
+yes,pratha,tea,lassi,null,null,null,null
+no,pratha,dates,water,null,null,null,null
+no,pratha,lassi,butter,salan,,null,null
+no,salan,roti,lassi,null,,null,null
+no,pratha,lassi,yougart,masar,null,null,null
+no,rice,milk,yougart,pratha,egg,null,null
+no,bread,egg,peach,null,null,null,null
+yes,pratha,yougart,null,null,null,null,null
+no,yougart,lassi,rice,null,null,null,null
+no,yougart,lassi ,pratha,qeema,null,null,null
+no,pratha,egg,yougart,null,null,null,null
+no,pratha,roti,potatoes,null,null,null,null
+no,pratha,yougart,daal,null,null,null,null
+yes,pratha,yougart,null,null,null,null,null
+no,roti,yougart,amlete,tea,null,null,null
+no,pratha,qeema,yougart,null,null,null,null
+yes,pratha,egg,yougart,null,null,null,null
+no,sandwich,null,null,null,null,null,null
+no,pratha,yougart,tea,null,null,null,null
+no,pratha,qeema,yougart,null,null,null,null
+no,pratha,yougart,lassi,tea,egg,salan,null
+no,plao,yougart,water,null,null,null,null
+no,roti,egg,egg,salan,lassi,null,null
+no,pratha,egg,yougart,shake,null,null,null
+no,pratha,salan ,lassi,null,null,null,null
+yes,pratha ,lassi,water,amlete,null,null,null
+yes,pratha,chany,lassi,null,null,null,null
+no,pratha,yougart,tea,water,null,null,null
+yes,pratha,chanay,yougart,null,null,null,null
+no,pratha,egg,water,null,null,null,null
+yes,pratha,chanay,lassi,null,null,null,null
+no,roti,salan ,yougart,null,null,null,null
+no,lassi ,pratha,egg,null,null,null,null
+no,roti,lassi,salan,water,null,null,null
+no,roti,lassi,egg,water,cigrete,null,null
+no,roti,egg,chichen,null,null,null,null
+yes,pratha,lassi,egg,tea,water,dates,null
+no,pratha,tea,yougart,salan,water,cigrate,null
+no,pratha,qeema,yougart,water,null,null,null
+no,pratha,qeema,soda,water,null,null,null
+no,pratha,milk,lassi,water,null,null,null
+no,pratha,yougart,water,null,null,null,null
+no,pratha,tea,null,null,null,null,null
+no,roti,lassi,water,salan,null,null,null
+yes,pratha ,lassi,null,null,null,null,null
+no,pratha,yougart,tea,egg,water,null,null
+yes,pratha,egg,lassi,water,null,null,null
+no,pratha,salan ,lassi,egg,water,null,null
+no,pratha,salan ,tea,water,null,null,null
+no,pratha,salan ,lassi,water,null,null,null
+yes,pratha,salan ,lassi,null,null,null,null
+no,pratha,lassi,salan,water,null,null,null
+yes,pratha,yougart,lassi,water,egg,chanay,achaar
+yes,pratha,yougart,lassi,water,egg,chanay,null
+no,chicken,yougart,tea,null,null,null,null
+yes,pratha,salan ,yougart,lassi,null,null,null
+yes,pratha,salan ,yougart,lassi,dates,null,null
+yes,pratha,water,lassi,chanay,null,null,null
+no,pratha,yougart,lassi,null,null,null,null
+no,pratha,salan ,lassi,null,null,null,null
+yes,pratha,salan ,yougart,null,null,null,null
+no,pratha,lassi,water,null,null,null,null

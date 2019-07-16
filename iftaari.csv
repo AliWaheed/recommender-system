@@ -1,0 +1,69 @@
+,,Iftaar,,,,,
+hostle,item1,item2,item3,item4,item5,item6,item7
+yes,samusa,chaat,meat,dates,juice,null,null
+no,dates,juice,milk,roti,null,null,null
+yes,dates,rolls,dahi bhaly,fruit chat,juice,null,null
+no,samosa,juice,chips,fruit chat,dahi bhaly,null,null
+yes,rolls,dates,juice,null,null,null,null
+no,pakory,fruit chaat,dahi bhaly,rice,juice,null,null
+yes,fruit chat,juice,dates,null,null,null,null
+no,samosa,juice,milk,pakory,fruit chaat,dahi bhaly,null
+no,chips,dates,pakory,juice,mango,null,null
+no,dates,samosa,milk soda,fruit chaat,dahi bhaly,rice,null
+no,juice,fruits,dates,null,null,null,null
+no,dates,dahi bhaly,pakory,water,milk shake,null,null
+no,coke,browny,nuggets,sandwich,null,null,null
+no,dates,milk,rolls,fruit chaat,null,null,null
+no,dates,dahi bhaly,fruit chaat,rolls,samosa,juice,milk
+no,dates,pakory,kabaab,sandwich,juice,milk soda,null
+no,dates,dahi bhaly,fruits,juice,null,null,null
+yes,dates,samosa,pakory,dahi bhaly,fruit chaat,lemon water,null
+no,dates,milk shake,samosa,sandwich,fruit chaat,null,null
+no,dates,fruits,water,juice,null,null,null
+no,dates,fruit chaat,dahi bhaly,samosa,pakory,juice,null
+no,dates,fruit chaat,rice,mutton kunna,juice,null,null
+no,fruit chat,juice,pakory,null,null,null,null
+no,dates,juice,samosa,rolls,fruit chaat,dahi bhaly,nuggets
+no,samosa,dates,juice,milk,rolls,null,null
+no,drink,dates,vegetables,roti,null,null,null
+no,dates,juice,fruit chaat,samosa,dahi bhaly,null,null
+no,dates,water,juice,pizza,salad,null,null
+no,dates,rolls,pakory,fruit chaat,dahi bhaly,milk soda,null
+yes,water,rice,dates,samosa,null,null,null
+yes,dates,juice,dahi bhaly,null,null,null,null
+no,dates,water,roti,null,null,null,null
+yes,dates,juice,pakory,rolls,null,null,null
+no,dates,samosa,pakory,juice,null,null,null
+yes,dates,juice,pakory,null,null,null,null
+yes,dates,juice,fruit chaat,pakory,null,null,null
+no,dates,juice,fruits,pizza,salad,null,null
+no,dates,juice,pizza,salad,water,null,null
+no,pakory,fruit chaat,sandwich,dahi bhaly,null,null,null
+no,juice,nuggets,null,null,null,null,null
+no,dates,chips,samosa,null,null,null,null
+yes,juice,samosa,dates,null,null,null,null
+no,juice,rolls,fruit chaat,pakory,samosa,null,null
+no,pakory,cutlets,milk shake,null,null,null,null
+no,nuggets,rolls,juice,cutlets,null,null,null
+no,samosa,kabaab,juice,dates,null,null,null
+no,dates,pakory,fruit chat,juice,null,null,null
+no,dates,milk,samosa,null,null,null,null
+yes,juice,dates,fruit chaat,samosa,null,null,null
+no,juice,kabaab,dates,fruits,kofta,null,null
+no,juice,dates,water,null,null,null,null
+no,juice,chips,dates,dahi bhaly,null,null,null
+no,juice,fries,dahi bhaly,dates,samosa,null,null
+no,juice,dates,null,null,null,null,null
+no,juice,samosa,rolls,fruit chaat,pakory,dahi bhaly,null
+yes,fruit chat,samosa,null,null,null,null,null
+no,dates,juice,pakory,rice,null,null,null
+yes,dates,samosa,pakory,fruits,dahi bhaly,juice,null
+yes,dates,samosa,pakory,fruits,dahi bhaly,juice,null
+no,juice,pakory,roti,dates,null,null,null
+yes,juice,samosa,fruits,dates,null,null,null
+yes,juice,dates,samosa,fruits,null,null,null
+yes,samosa,fruit chaat,juice,null,null,null,null
+no,juice,pakory,dahi bhaly,roti,null,null,null
+no,juice,pakory,fruit chaat,dates,null,null,null
+yes,dahi bhaly,fruit chaat,samosa,dates,null,null,null
+no,chana chaat,samosa,rolls,juice,dates,null,null
